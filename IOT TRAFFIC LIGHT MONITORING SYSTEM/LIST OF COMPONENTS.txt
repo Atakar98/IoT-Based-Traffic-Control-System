@@ -1,0 +1,17 @@
+			 			LIST OF COMPONENTS
+=====================================================================================================================
+
+
+Microcontroller            :         Arduino Uno
+
+WIFI                       :         Esp8266 (IOT module)
+
+IR sensors                 :         Digital Type (4 pieces)
+
+Leds                       :         Red, yellow and green Total (12 pieces)
+
+Power Source               :         12v 2 amp Adaptor
+ 
+And a buzzer 		   :	     One Piece
+
+Resistor 		   :  	     1k ohms
